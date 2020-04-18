@@ -9,6 +9,6 @@ The main categories of the blog are the continents - Dilan describes his travel 
 
 The business strategy is as follows: new readers visit the blog, they read articles, they subscribe to the newsletter, and eventually they buy the info products.
 
-The blog is available in 8 dfferent countries.
+The blog is available in 8 different countries.
 
 Based on the data from three months, I try to find useful information and insights for Dilan to invest his time and money wisely for run the business more efficiently.
