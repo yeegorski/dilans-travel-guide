@@ -1,4 +1,4 @@
-#Creating tables for 4 groups of users:
+--Creating tables for 4 groups of users:
 
 CREATE TABLE new_readers 
 (
