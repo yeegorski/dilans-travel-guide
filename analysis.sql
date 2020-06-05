@@ -1,4 +1,4 @@
-#Extracting unique customers by countries:
+--Extracting unique customers by countries:
 
 SELECT new_readers.date,
        new_readers.event,
@@ -12,7 +12,7 @@ FROM new_readers
   RIGHT JOIN customers ON new_readers.user_id = customers.user_id;
 
 
-#Extracting funnel analysis table:
+--Extracting funnel analysis table:
 
 SELECT new.date, new.source, new.country, new.continent, new.new, returnin.returnin, subscribers.subscribers, customers.customers
 FROM
@@ -59,7 +59,7 @@ ON new.date = customers.date
    AND new.continent = customers.continent;
    
    
-#Finding microsegments that bring highest revenue:
+--Finding microsegments that bring highest revenue:
 
 SELECT new_readers.country,
        new_readers.source,
